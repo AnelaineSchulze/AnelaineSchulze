@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnelaineSchulze
-- 👀 I’m interested in trocar experiências
+- 👀 I’m interested in exchange experience...
 - 🌱 I’m currently learning  C#, Python, JavaScript, HTML, CSS...
-- 💞️ I’m looking to collaborate on  projes .
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : anelaineschulze@gmail.com
 
 <!---
